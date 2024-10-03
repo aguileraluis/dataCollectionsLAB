@@ -1,4 +1,4 @@
-# Project Title
+# Working with Data Collections Lab
 
 A lab to test my knowledge of working with data collections using arrays and objects. 
 
